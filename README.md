@@ -16,7 +16,7 @@
 > :rocket: Aplicação desenvolvida com o intuito de ensinar como se utilizar reactJS numa mini aula entre amigos devs.
 
 <div align="center">
-  <sub>InstaDown. Feito com ❤︎ por
+  <sub>Gerador de Aldeia Ninja. Feito com ❤︎ por
     <a href="https://github.com/LeoGonzaga">Léo Gonzaga</a> 
   </sub>
 </div>
